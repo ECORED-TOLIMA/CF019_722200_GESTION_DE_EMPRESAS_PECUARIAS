@@ -240,10 +240,9 @@ export default {
     {
       tema: '1.5 Mecanismos y herramientas para la detección del celo',
       referencia:
-        'Pueyo, D. (2017). <<em>Efectividad de los cuatro métodos para la detección de celo en vacuno de carne</em>. Universidad Zaragoza.',
+        'Pueyo, D. (2017). <em>Efectividad de los cuatro métodos para la detección de celo en vacuno de carne</em>. Universidad Zaragoza.',
       tipo: 'PDF',
-      link:
-        'https://citarea.cita-aragon.es/citarea/bitstream/10532/3955/1/2017_493.pdf',
+      link: 'https://hdl.handle.net/10532/3955',
     },
     {
       tema:
@@ -411,7 +410,7 @@ export default {
       referencia:
         'Decreto 1500 de 2007. [Ministerio de la Protección Social]. Por el cual se establece el reglamento técnico a través del cual se crea el Sistema Oficial de Inspección, Vigilancia y Control de la Carne, Productos Cárnicos Comestibles y Derivados Cárnicos Destinados para el Consumo Humano y los requisitos sanitarios y de inocuidad que se deben cumplir en su producción primaria, beneficio, desposte, desprese, procesamiento, almacenamiento, transporte, comercialización, expendio, importación o exportación. Mayo 4 de 2007.',
       link:
-        'https://corponarino.gov.co/expedientes/juridica/2007decreto1500.pdf ',
+        'https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=38923',
     },
     {
       referencia:
@@ -429,7 +428,7 @@ export default {
       referencia:
         'Hernández, P. y Gómez,  A. (2011) Leptospirosis:  una zoonosis que afecta a la salud pública y la producción pecuaria. <em>Revista Ciencia Animal</em>, 1 (4), p.15-23.',
       link:
-        'https://ciencia.lasalle.edu.co/cgi/viewcontent.cgi?article=1032&context=ca ',
+        'https://ciencia.lasalle.edu.co/items/9785f164-1dc6-4d1d-b4ba-483fd04aa711',
     },
     {
       referencia:
